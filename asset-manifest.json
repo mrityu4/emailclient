@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/emailclient/static/css/main.f69d2eef.css",
+    "main.js": "/emailclient/static/js/main.e0b2d8ae.js",
+    "index.html": "/emailclient/index.html",
+    "main.f69d2eef.css.map": "/emailclient/static/css/main.f69d2eef.css.map",
+    "main.e0b2d8ae.js.map": "/emailclient/static/js/main.e0b2d8ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69d2eef.css",
+    "static/js/main.e0b2d8ae.js"
+  ]
+}
