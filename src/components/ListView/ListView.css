@@ -1,0 +1,16 @@
+.listview{
+    width: 25%;
+    margin-right: 5px;
+}
+.listview .list-item{
+    border: 1px solid black;
+    padding-left: 2px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+}
+.listview .list-item.active{
+    background-color: lightblue;
+}
+.listview .list-item.not-read{
+    font-weight: bold;
+}

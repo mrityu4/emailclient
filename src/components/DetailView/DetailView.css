@@ -1,0 +1,17 @@
+.detailview .name{
+    font-size: 20px;
+}
+.detailview .from{
+    font-size: 14px;
+}
+.detailview .sub{
+    font-size: 16px;
+}
+.detailview {
+    margin-top: 12px;
+    margin-left: 15px;
+    width:40%;
+}
+.detailview .text{
+    margin-top: 12px;
+}
